@@ -1,5 +1,5 @@
 export default {
-  email: 'minhduc.tran.sgu@gmail.com',
+  email: 'ductm.official@gmail.com',
 
   socialMedia: [
     {
@@ -10,22 +10,12 @@ export default {
     {
       name: 'linkedin-in',
       prefix: 'fab',
-      url: 'https://www.linkedin.com/in/tran-minh-duc-554987109/',
-    },
-    {
-      name: 'codepen',
-      prefix: 'fab',
-      url: 'https://codepen.io/trn-minh-c',
+      url: 'https://www.linkedin.com/in/minh-duc-tran-554987109/',
     },
     {
       name: 'instagram',
       prefix: 'fab',
       url: 'https://www.instagram.com/minhduc.tran.sgu/',
-    },
-    {
-      name: 'twitter',
-      prefix: 'fab',
-      url: 'https://www.facebook.com/minhduc.tran.sgu',
     },
   ],
 

@@ -56,7 +56,7 @@ function Footer() {
           <div>Built by Duc Tran (Designed by Brittany Chiang)</div>
 
           {githubInfo.stars && githubInfo.forks && (
-            <div className="github-stats">
+            <div className="github-stats" style={{ display: 'none' }}>
               <span>
                 <FontAwesomeIcon icon={['fas', 'star']} />
                 <span>{githubInfo.stars.toLocaleString()}</span>

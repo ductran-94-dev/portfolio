@@ -34,54 +34,6 @@
   {
     "node": {
       "frontmatter": {
-        "date": "2020-08-02",
-        "title": "Markdown Previewer",
-        "tech": ["React JS", "Typescript", "Styled Component"],
-        "github": "https://github.com/ductran-94-dev",
-        "external": "https://github.com/ductran-94-dev",
-        "ios": null,
-        "android": null,
-        "company": "",
-        "cover": "https://webdoctor.vn/wp-content/uploads/2017/10/Cach-chon-background-khi-thiet-ke-website.png"
-      },
-      "html": "<p>A FreeCodeCamp project. The goal is to create a dynamic Markdown previewer, made with React and SCSS. This app will use the Marked node package for the translation. The required user stories are: I can type GitHub-flavored Markdown into a text area, and I can see a preview of the output of my markdown that is updated as I type.</p>"
-    }
-  },
-  {
-    "node": {
-      "frontmatter": {
-        "date": "2020-07-16",
-        "title": "Drum Machine",
-        "tech": ["React JS", "Typescript", "Styled Component"],
-        "github": "https://github.com/ductran-94-dev",
-        "external": "https://github.com/ductran-94-dev",
-        "ios": null,
-        "android": null,
-        "company": "",
-        "cover": "https://webdoctor.vn/wp-content/uploads/2017/10/Cach-chon-background-khi-thiet-ke-website.png"
-      },
-      "html": "<p>A FreeCodeCamp Project. A drum machine built with React.js and free samples found on pretty sketchy drum kit websites. Read more about this project on <a href='https://learn.freecodecamp.org/front-end-libraries/front-end-libraries-projects/build-a-drum-machine' target='_blank' rel='nofollow noopener noreferrer'>FreeCodeCamp</a>.</p>"
-    }
-  },
-  {
-    "node": {
-      "frontmatter": {
-        "date": "2020-03-27",
-        "title": "JavaScript Calculator",
-        "tech": ["React JS", "Typescript", "Styled Component"],
-        "github": "https://github.com/ductran-94-dev",
-        "external": "https://github.com/ductran-94-dev",
-        "ios": null,
-        "android": null,
-        "company": "",
-        "cover": "https://webdoctor.vn/wp-content/uploads/2017/10/Cach-chon-background-khi-thiet-ke-website.png"
-      },
-      "html": "<p>A FreeCodeCamp project. This is a pocket calculator. The user can enter calculations and view the output. They are able to input positive or negative values, and decimal or non-decimal values. The calculator follows the <a href='https://www.mathsisfun.com/operation-order-bodmas.html' target='_blank' rel='nofollow noopener noreferrer'>BODMAS</a> order of operations rule: multiplication and division operators have precedence over addition and subtraction operators. The user can cancel their last entry using the 'CE' button, and can cancel their entire input using the 'C' button.</p>"
-    }
-  },
-  {
-    "node": {
-      "frontmatter": {
         "date": "2020-01-10",
         "title": "25 + 5 Clock",
         "tech": ["React JS", "Typescript", "Styled Component"],
